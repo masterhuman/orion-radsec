@@ -1,5 +1,5 @@
 # Orion Radsecproxy docker setup
-
+[[[http://github.com/google-area120/orion-radsec/edit/master/README.md]]]
 For more information about Orion Wifi, click [here](https://orion.google) or visit the [Orion Wifi Help Center](https://support.google.com/orion-wifi).
 
 To use Orion Wifi, you'll need either a wireless controller with native RadSec support or a RadSec proxy.  
